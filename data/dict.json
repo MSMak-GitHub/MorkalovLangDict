@@ -281,7 +281,7 @@ var dict = {
 	"exa": "Ha hapon maŝen.",
 	"exaru": "Она имеет машину."
   },
-  "ulenar": {
+  "olenara": {
     "~": "весна"
   },
   "volk": {
@@ -289,7 +289,7 @@ var dict = {
     "exa": "Chal volkon fasto volk.",
 	"exaru": "Человек идёт быстрыми шагами."
   },
-  "âlfavat":{
+  "serolad":{
     "~": "алфавит"
   },
   "normel":{
@@ -1372,7 +1372,7 @@ var dict = {
   "spokfou": {
     "~": "речь"
   },
-  "pet": {
+  "pribk": {
     "~": "рыба"
   },
   "let": {
@@ -1474,7 +1474,10 @@ var dict = {
   "sûrproy": {
     "~": "сюрприз"
   },
-  "Rosseâ": {
+  "Engao": {
+    "~": "Россия"
+  },
+  "Roseo": {
     "~": "Россия"
   },
 }
